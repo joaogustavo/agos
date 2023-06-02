@@ -128,7 +128,7 @@ body {
 	color: #06377b;
 	display: block;
 	margin: 14px 5px 14px 5px;
-	padding: 8px 12px 8px 12px;
+	padding: 8px 10px 8px 10px;
 	position: relative;
 }
 .navegacao ul li a:hover, .navegacao ul li a:focus {
@@ -399,7 +399,7 @@ body {
 .rodape {
 	color: #27457d;
 	font-family: 'tahomabold';
-	font-size: 1.3rem;
+	font-size: 1.2rem;
 	font-weight: 700;
 	line-height: 2rem;
 	margin: 0 auto;
